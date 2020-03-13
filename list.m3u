@@ -205,4 +205,9 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_108
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",情感调解[1920*1080]
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1080p_t10/c15_lb_qinggantiaojie_1080p_t10.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="保定",保定新闻
+http://110210.obell.applinzi.com/hbbd.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="保定",保定公共
+http://110210.obell.applinzi.com/hbbd.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="保定",保定生活健康
+http://110210.obell.applinzi.com/hbbd.php?id=3
